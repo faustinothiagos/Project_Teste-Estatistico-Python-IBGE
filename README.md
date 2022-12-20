@@ -23,5 +23,5 @@ Neste repositorio será feito um teste estatistico usando dados do IBGE-PNAD-201
  - Relação entre média, mediana, moda
  - Medidas separativas(Quartis, decis e percentis)
  - Box-plot
- - Medidas de dispersão(Desvio padrão, variancia e desvio m
+ - Medidas de dispersão(Desvio padrão, variancia e desvio medio absoluto)
  
