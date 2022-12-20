@@ -20,7 +20,7 @@ Neste repositorio será feito um teste estatistico usando dados do IBGE-PNAD-201
  - Média aritmética
  - Modiana
  - Moda
- - Relação entre média, mediana, moda
+ - Relação entre média, mediana e moda
  - Medidas separativas(Quartis, decis e percentis)
  - Box-plot
  - Medidas de dispersão(Desvio padrão, variancia e desvio medio absoluto)
