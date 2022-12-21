@@ -25,3 +25,7 @@ Neste repositorio será feito um teste estatistico usando dados do IBGE-PNAD-201
  - Box-plot
  - Medidas de dispersão(Desvio padrão, variancia e desvio medio absoluto)
  
+ # Acesso rápido a documentação do projeto: :construction:
+ - [Acesso rápido ao Jupyter Notebook](https://github.com/faustinothiagos/Teste-Estatistico-Python-IBGE/tree/main/Code)
+ - [Acesso rápido ao Dataset](https://github.com/faustinothiagos/Teste-Estatistico-Python-IBGE/tree/main/DataSet)
+ 
